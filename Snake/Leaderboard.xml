@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player>
+    <_name>Samuel</_name>
+    <_score>7</_score>
+  </Player>
+  <Player>
+    <_name>dsa</_name>
+    <_score>6</_score>
+  </Player>
+  <Player>
+    <_name>Samu</_name>
+    <_score>4</_score>
+  </Player>
+  <Player>
+    <_name>wddd</_name>
+    <_score>2</_score>
+  </Player>
+  <Player>
+    <_name>d</_name>
+    <_score>1</_score>
+  </Player>
+</ArrayOfPlayer>
